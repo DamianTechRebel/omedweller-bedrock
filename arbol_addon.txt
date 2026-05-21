@@ -1,0 +1,97 @@
+omedweller/
+├── behavior_pack/
+│   ├── blocks/
+│   ├── entities/
+│   │   ├── omebuddy.json
+│   │   ├── omedweller.json
+│   │   └── thrownrock.json
+│   ├── items/
+│   │   ├── ometeddy.json
+│   │   └── whistle.json
+│   ├── loot_tables/
+│   ├── recipes/
+│   │   ├── ometeddy.json
+│   │   └── whistle.json
+│   ├── scripts/
+│   │   ├── systems/
+│   │   │   ├── bondSystem.js
+│   │   │   ├── followSystem.js
+│   │   │   ├── stateSystem.js
+│   │   │   ├── targetSystem.js
+│   │   │   ├── transformSystem.js
+│   │   │   └── whistleSystem.js
+│   │   ├── utils/
+│   │   │   └── safeRun.js
+│   │   └── main.js
+│   ├── spawn_rules/
+│   └── manifest.json
+└── resource_pack/
+    ├── animation_controllers/
+    ├── animations/
+    │   ├── omebuddy.animation.DISABLED
+    │   ├── omedweller.animation.DISABLED
+    │   └── thrownrock.animation.DISABLED
+    ├── attachables/
+    ├── entity/
+    │   ├── omebuddy.entity.json
+    │   ├── omedweller.entity.json
+    │   └── thrownrock.entity.json
+    ├── models/
+    │   └── entity/
+    │       ├── omebuddy.geo.json
+    │       ├── omedweller.geo.json
+    │       └── thrownrock.geo.json
+    ├── render_controllers/
+    │   └── default.render_controllers.json
+    ├── sounds/
+    │   └── omedweller/
+    │       ├── ambient1.ogg
+    │       ├── ambient2.ogg
+    │       ├── ambient3.ogg
+    │       ├── attack1.ogg
+    │       ├── attack2.ogg
+    │       ├── attack3.ogg
+    │       ├── back_from_hell.ogg
+    │       ├── breathing.ogg
+    │       ├── broken_bones.ogg
+    │       ├── death.ogg
+    │       ├── hurt1.ogg
+    │       ├── hurt2.ogg
+    │       ├── hurt3.ogg
+    │       ├── hurt4.ogg
+    │       ├── hurt5.ogg
+    │       ├── hurt6.ogg
+    │       ├── hurt7.ogg
+    │       ├── laughter.ogg
+    │       ├── omeburst.ogg
+    │       ├── persecution.ogg
+    │       ├── rock_impact.ogg
+    │       ├── throw_player.ogg
+    │       ├── throw_rock.ogg
+    │       ├── transform.ogg
+    │       ├── vortex.ogg
+    │       ├── whistle_long.ogg
+    │       ├── whistle_short.ogg
+    │       └── wind.ogg
+    ├── texts/
+    │   ├── es_MX.lang
+    │   ├── es_US.lang
+    │   └── languages.json
+    ├── textures/
+    │   ├── blocks/
+    │   │   ├── omepeluche_icon.png
+    │   │   └── omepeluche.png
+    │   ├── entity/
+    │   │   ├── omedweller.png
+    │   │   ├── omenaso_angry.png
+    │   │   ├── omenaso_scared.png
+    │   │   ├── omenaso.png
+    │   │   └── thrownrock.png
+    │   ├── items/
+    │   │   └── whistle.png
+    │   ├── ui/
+    │   ├── item_texture.json
+    │   └── terrain_texture.json
+    ├── ui/
+    ├── manifest.json
+    └── sounds_definitions.json
