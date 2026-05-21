@@ -1,0 +1,27 @@
+{
+  "format_version": "1.14.0",
+
+  "sound_definitions": {
+
+    "omenaso.whistle_short": {
+      "category": "player",
+      "sounds": [
+        "sounds/omedweller/whistle_short"
+      ]
+    },
+
+    "omenaso.whistle_long": {
+      "category": "player",
+      "sounds": [
+        "sounds/omedweller/whistle_long"
+      ]
+    },
+
+    "omenaso.transform": {
+      "category": "hostile",
+      "sounds": [
+        "sounds/omedweller/transform"
+      ]
+    }
+  }
+}

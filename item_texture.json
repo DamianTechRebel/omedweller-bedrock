@@ -1,0 +1,8 @@
+{
+  "resource_pack_name": "omedweller_rp",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "whistle": { "textures": "textures/items/whistle" },
+    "ometeddy": { "textures": "textures/blocks/omepeluche_icon" }
+  }
+}

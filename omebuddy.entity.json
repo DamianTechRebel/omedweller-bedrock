@@ -1,0 +1,21 @@
+{
+  "format_version": "1.10.0",
+
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "omenaso:omebuddy",
+
+      "textures": {
+        "default": "textures/entity/omenaso"
+      },
+
+      "geometry": {
+        "default": "geometry.omenaso"
+      },
+
+      "render_controllers": [
+        "controller.render.default"
+      ]
+    }
+  }
+}

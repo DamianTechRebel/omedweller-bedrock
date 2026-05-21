@@ -1,0 +1,35 @@
+{
+  "format_version": "1.21.0",
+
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "omenaso:whistle_recipe",
+
+      "unlock": [
+        {
+          "item": "minecraft:gold_ingot"
+        }
+      ]
+    },
+
+    "tags": [
+      "crafting_table"
+    ],
+
+    "pattern": [
+      "G  ",
+      " G "
+    ],
+
+    "key": {
+      "G": {
+        "item": "minecraft:gold_ingot"
+      }
+    },
+
+    "result": {
+      "item": "omenaso:whistle",
+      "count": 1
+    }
+  }
+}

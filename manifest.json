@@ -1,0 +1,23 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "OmeDweller RP",
+    "description": "OmeDweller Addon - Resource Pack",
+    "uuid": "50dd538e-f716-421f-8d46-f5089caa3368",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "3153c97c-202f-4f75-aaf7-906ce69f68bd",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "d62ced8b-470f-4b47-b52f-0f221c9bb5dc",
+      "version": [1, 0, 0]
+    }
+  ]
+}

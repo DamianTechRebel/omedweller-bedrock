@@ -1,0 +1,46 @@
+{
+  "format_version": "1.21.0",
+
+  "minecraft:entity": {
+    "description": {
+      "identifier": "omenaso:thrownrock",
+      "is_spawnable": false,
+      "is_summonable": true,
+      "is_experimental": false
+    },
+
+    "components": {
+
+      "minecraft:type_family": {
+        "family": [
+          "projectile",
+          "thrownrock"
+        ]
+      },
+
+      "minecraft:collision_box": {
+        "width": 0.25,
+        "height": 0.25
+      },
+
+      "minecraft:physics": {
+        "has_gravity": true,
+        "has_collision": true
+      },
+
+      "minecraft:projectile": {
+        "power": 1.5,
+        "gravity": 0.05,
+
+        "on_hit": {
+          "impact_damage": {
+            "damage": 8,
+            "knockback": true
+          },
+
+          "remove_on_hit": {}
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "format_version": "1.21.0",
+
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "omenaso:ometeddy_recipe",
+
+      "unlock": [
+        {
+          "item": "minecraft:diamond"
+        }
+      ]
+    },
+
+    "tags": [
+      "crafting_table"
+    ],
+
+    "pattern": [
+      "RWR",
+      " D "
+    ],
+
+    "key": {
+      "R": {
+        "item": "minecraft:red_wool"
+      },
+
+      "W": {
+        "item": "minecraft:white_wool"
+      },
+
+      "D": {
+        "item": "minecraft:diamond"
+      }
+    },
+
+    "result": {
+      "item": "omenaso:ometeddy",
+      "count": 1
+    }
+  }
+}

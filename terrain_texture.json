@@ -1,0 +1,8 @@
+{
+  "resource_pack_name": "omedweller_rp",
+  "texture_name": "atlas.terrain",
+  "texture_data": {
+    "omepeluche": { "textures": "textures/blocks/omepeluche" },
+    "omepeluche_icon": { "textures": "textures/blocks/omepeluche_icon" }
+  }
+}
